@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Dasbas23
 - 👀 I’m interested in ...learm coding   
-- 🌱 I’m currently learning ...python & c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... You will find the way.
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning ...python & java &
+- 💞️ I’m looking to learn more about this fantastic world ...
+- 📫 How to reach me ... mariusdodu.ilerna@gmail.com 
+- 😄 Pronouns: Marius
 - ⚡ Fun fact: ...I have a urban garden.
 
 <!---
