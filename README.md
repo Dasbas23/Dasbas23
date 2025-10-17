@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dasbas23
 - 👀 I’m interested in ...learm coding   
-- 🌱 I’m currently learning ...python & java & git
+- 🌱 I’m currently learning ...JAVA & Kotlin & python & git & C# 🤯🤯🤯 
 - 💞️ I’m looking to learn more about this fantastic world ...
 - 📫 How to reach me ... mariusdodu.ilerna@gmail.com 
 - 😄 Pronouns: Marius
