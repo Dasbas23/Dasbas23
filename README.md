@@ -21,11 +21,12 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por el
 ---
 
 #### 🚀 Proyectos Destacados
-
+* **Clasificador Inteligente de Documentos (Proyecto personal):** Herramienta de escritorio para automatizar la gestión logística. Clasifica y renombra PDFs masivos basándose en patrones Regex dinámicos y análisis de metadatos.
+  * *Tecnologías:* Python (CustomTkinter), Regex Engine, Threading, Clean Architecture.   
 * **Generador de Contraseñas Seguro (PSP):** Servidor multihilo (Sockets) que genera contraseñas seguras siguiendo el Principio de Responsabilidad Única.
     * *Tecnologías:* Java, Sockets, Threading.
 
 ---
 
 #### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/marius-dodu-b01470206)
