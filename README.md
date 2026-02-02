@@ -34,7 +34,7 @@
 ### 🏆 Proyecto Destacado: DocEngie
 > *¿La IA me quita el trabajo? No, yo creo herramientas inteligentes.*
 
-**[📂 Ver Repositorio DocEngie](LINK_A_TU_REPO_DOCENGIE)**
+**[📂 Ver Repositorio DocEngie](https://github.com/Dasbas23/DocEngie)**
 Una solución de escritorio *High-Performance* para automatizar la gestión logística de empresas.
 * **El Problema:** Clasificación manual lenta y propensa a errores de cientos de albaranes PDF.
 * **Mi Solución:**
