@@ -25,7 +25,7 @@
 <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=dasbas23&show_icons=true&theme=tokyonight&hide_border=true" alt="Marius Stats" />
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=dasbas23&layout=complete&theme=tokyonight&hide_border=true" alt="Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dasbas23)" />
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=dasbas23&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dasbas23)" />
   </p>
 </div>
 
