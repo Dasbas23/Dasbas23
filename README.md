@@ -23,8 +23,8 @@
 
 ### 📊 Mis Estadísticas
 <div align="center">
-    <img src="https://statsprivadas.vercel.app/api?username=dasbas23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=c,c++" alt="Marius Stats" height="170" />
-  <img src="https://statsprivadas.vercel.app/api/top-langs/?username=dasbas23&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=c,c++" alt="Lenguajes más usados" height="170" />
+    <img src="https://statsprivadas.vercel.app/api?username=dasbas23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=c,C++" alt="Marius Stats" height="170" />
+  <img src="https://statsprivadas.vercel.app/api/top-langs/?username=dasbas23&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=c,C++" alt="Lenguajes más usados" height="170" />
 </div>
 
 ---
