@@ -1,10 +1,11 @@
 <div align="center">
   <h1>¡Hola! Soy Marius 👋</h1>
   <p>
-    <b>Desarrollador de Software Junior | Estudiante de DAM</b>
+    <b>Desarrollador Multiplataforma en formación · Soporte ERP & BBDD</b>
   </p>
   <p>
-    Apasionado por el <b>Backend</b>, la <b>Arquitectura Limpia</b> y la creación de herramientas que solucionan problemas reales. Buscando activamente prácticas donde pueda aportar código de calidad y seguir aprendiendo.
+    Backend, arquitectura limpia y herramientas que resuelven problemas reales.
+    Especial interés en <b>accesibilidad</b>, <b>integración de sistemas</b> y buenas prácticas de seguridad.
   </p>
 </div>
 
@@ -16,10 +17,15 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
+
 
 ### 📊 Mis Estadísticas
 <div align="center">
@@ -30,7 +36,15 @@
 ---
 
 ### 🏆 Proyecto Destacado: DocEngie
-> *¿La IA me quita el trabajo? No, yo creo herramientas inteligentes.*
+> *Banco de tiempo vecinal con foco en accesibilidad cognitiva y sensorial.* | *¿La IA me quita el trabajo? No, yo creo herramientas inteligentes.*
+
+**[📂 Ver Repositorio VecindApp](https://github.com/Dasbas23/VecindApp)** — TFG del CFGS de DAM
+App Android nativa donde los vecinos intercambian servicios usando horas como moneda, diseñada desde el inicio para ser usable por personas con dificultades de lectura, comprensión o discapacidad sensorial.
+* ♿ **Accesibilidad cognitiva:** sistema de valoraciones con pictogramas **ARASAAC**.
+* 🔊 **Accesibilidad sensorial:** integración del motor **TTS nativo de Android** en escaparate, detalle, perfil y valoraciones.
+* 🏗️ **Arquitectura:** **MVVM + Clean Architecture** en 5 capas (data / domain / ui).
+* 💾 **Persistencia offline-first:** Room/SQLite con 4 entidades relacionadas.
+* 📊 **Visualización:** historial gráfico con MPAndroidChart.
 
 **[📂 Ver Repositorio DocEngie](https://github.com/dasbas23/DocEngie)** Una solución de escritorio *High-Performance* para automatizar la gestión logística de empresas.
 * **El Problema:** Clasificación manual lenta y propensa a errores de cientos de albaranes PDF.
@@ -49,6 +63,12 @@
 | **Concurrencia** | **Sistema de Parking:** Semáforos y monitores para evitar *Race Conditions*. |
 | **Sistemas Distribuidos** | **Sockets TCP/IP:** Arquitectura Cliente-Servidor con patrón **Singleton**. |
 | **Acceso a Datos** | **Hibernate:** Mapeo de relaciones SQL complejas y persistencia. |
+
+#### 🐍 Python
+
+* **APIs REST** con Flask, testing de endpoints con Postman.
+* **Despliegue de Oracle** mediante contenedores Docker.
+
 
 #### 📱 Desarrollo Móvil (Android/Kotlin)
 * **Arquitectura Nativa:** Desarrollo modular y ViewBinding.
