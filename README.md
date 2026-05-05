@@ -53,9 +53,9 @@ App Android nativa donde los vecinos intercambian servicios usando horas como mo
 **[📂 Ver Repositorio DocEngie](https://github.com/dasbas23/DocEngie)** Una solución de escritorio *High-Performance* para automatizar la gestión logística de empresas.
 * **El Problema:** Clasificación manual lenta y propensa a errores de cientos de albaranes PDF.
 * **Mi Solución:**
-    * 🚀 **Backend:** Python 3.14 con procesamiento concurrente (**Threading**) para evitar bloqueos en la UI.
-    * 🧠 **Lógica:** Motor híbrido de **OCR + Regex Avanzado** para extracción de datos (NIF, Fechas) en documentos no estructurados.
-    * 🏗️ **Arquitectura:** Diseño modular desacoplado (Clean Architecture simplificada) y configuración externa (JSON).
+* 🚀 **Backend:** Python 3.14 con procesamiento concurrente (**Threading**) para evitar bloqueos en la UI.
+* 🧠 **Lógica:** Motor híbrido de **OCR + Regex Avanzado** para extracción de datos (NIF, Fechas) en documentos no estructurados.
+* 🏗️ **Arquitectura:** Diseño modular desacoplado (Clean Architecture simplificada) y configuración externa (JSON).
 
 ---
 
