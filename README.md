@@ -34,8 +34,10 @@
 
 ---
 
-### 🏆 Proyecto Destacado: DocEngie
-> *Banco de tiempo vecinal con foco en accesibilidad cognitiva y sensorial.* | *¿La IA me quita el trabajo? No, yo creo herramientas inteligentes.*
+
+### 🏆 Proyecto Destacado: VecindApp
+
+> *Banco de tiempo vecinal con foco en accesibilidad cognitiva y sensorial.*
 
 **[📂 Ver Repositorio VecindApp](https://github.com/Dasbas23/VecindApp)** — TFG del CFGS de DAM
 App Android nativa donde los vecinos intercambian servicios usando horas como moneda, diseñada desde el inicio para ser usable por personas con dificultades de lectura, comprensión o discapacidad sensorial.
@@ -44,6 +46,9 @@ App Android nativa donde los vecinos intercambian servicios usando horas como mo
 * 🏗️ **Arquitectura:** **MVVM + Clean Architecture** en 5 capas (data / domain / ui).
 * 💾 **Persistencia offline-first:** Room/SQLite con 4 entidades relacionadas.
 * 📊 **Visualización:** historial gráfico con MPAndroidChart.
+  
+### 🏆 Proyecto Destacado: DocEngie
+> *Banco de tiempo vecinal con foco en accesibilidad cognitiva y sensorial.* | *¿La IA me quita el trabajo? No, yo creo herramientas inteligentes.*
 
 **[📂 Ver Repositorio DocEngie](https://github.com/dasbas23/DocEngie)** Una solución de escritorio *High-Performance* para automatizar la gestión logística de empresas.
 * **El Problema:** Clasificación manual lenta y propensa a errores de cientos de albaranes PDF.
