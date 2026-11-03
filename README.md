@@ -1,14 +1,14 @@
 <div align="center">
   <h1>¡Hola! Soy Marius 👋</h1>
   <p>
-    <b>Desarrollador Backend · Python · FastAPI · IA aplicada</b>
+    <b>Desarrollador Python · Datos · Backend</b>
   </p>
   <p>
-    Construyo <b>software responsable</b>: APIs seguras, IA integrada en herramientas
-    reales y respeto por los datos. Backend, bases de datos y arquitectura limpia.
+    Construyo <b>software responsable</b>: datos trazables, APIs seguras e IA integrada
+    donde aporta. Python, SQL y automatización. Backend, bases de datos y arquitectura limpia.
   </p>
   <p>
-    <i>Casi 10 años en automoción B2B antes de programar — entiendo el negocio detrás del código.</i>
+    <i>Cuento con +10 años en automoción B2B antes de programar — entiendo el negocio detrás del código.</i>
   </p>
 </div>
 
@@ -18,15 +18,16 @@
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </div>
 
@@ -40,15 +41,23 @@
 
 ### 🔭 En qué ando ahora
 
-> *¿La IA me quita el trabajo? No — construyo herramientas inteligentes con ella.*
+> *Primero lo que se puede comprobar; la IA, después y donde aporta.*
 
-* 🤖 **IA aplicada + seguridad** — API en **Python/FastAPI** para captación de leads, con la seguridad desde el endpoint: validación tipada (Pydantic), honeypot anti-spam, CORS en lista blanca y gestión de secretos por entorno. *(en desarrollo)*
-* 🧠 **LLMs en local** — Ollama sirviendo modelos (Qwen, Gemma MoE, GPT-OSS) e integrados como backend en herramientas de desarrollo; Hugging Face + PyTorch sobre ROCm (GPU AMD).
-* 🔐 Profundizando en **seguridad de aplicaciones** y **gobernanza de datos**.
-
+* 📬 **Seomail** · *prácticas en Kokko, en producción desde octubre de 2026* — extractor en Python de contactos de medios digitales, integrado en **n8n** delante de una búsqueda con IA: en una pasada de prueba sobre 98 webs, el 43 % se resolvió sin llamar a la IA. Ningún descarte silencioso y cada dato con su página de origen. *(Código privado de la empresa.)*
+* 🗄️ **Datos de marketplaces** — analizando la estructura de los datos de varios marketplaces para diseñar la base de datos de competidores de Kokko.
+* 📊 Formándome en **Ciberseguridad**
+* 🔐 Sigo con la **seguridad de aplicaciones**: API en FastAPI de captación de leads con validación tipada (Pydantic), honeypot anti-spam y gestión de secretos *(en desarrollo)*.
+  
 ---
 
 ### 🏆 Proyectos destacados
+
+#### 📄 DocEngie — Extracción de datos de documentos escaneados
+**[📂 Ver repositorio](https://github.com/Dasbas23/DocEngie)** · *iniciativa propia*
+Aplicación de escritorio en Python que procesa lotes de PDFs escaneados: separa los documentos de un mismo escaneo, los clasifica por proveedor y los renombra con su número de albarán.
+* 🧠 **Lógica:** motor híbrido **OCR + Regex** con reglas de extracción en JSON: añadir un proveedor no exige tocar el código.
+* 🚀 **Concurrencia:** procesamiento en hilos (**Threading**) para no bloquear la interfaz.
+* 📏 **Resultado medido:** 8 escaneos (61 páginas) → 52 albaranes separados, clasificados y renombrados en ~70 s, sin errores.
 
 #### ♿ VecindApp — Banco de Tiempo Vecinal Accesible
 **[📂 Ver repositorio](https://github.com/Dasbas23/VecindApp)** · *TFG del CFGS DAM*
@@ -57,13 +66,6 @@ App Android nativa donde los vecinos intercambian servicios usando horas como mo
 * 🔊 **Accesibilidad sensorial:** motor **TTS nativo de Android** en escaparate, detalle, perfil y valoraciones.
 * 🏗️ **Arquitectura:** **MVVM + Clean Architecture** en 5 capas (data / domain / ui).
 * 💾 **Offline-first:** Room/SQLite con 4 entidades relacionadas.
-
-#### 📄 DocEngie — Automatización documental *High-Performance*
-**[📂 Ver repositorio](https://github.com/Dasbas23/DocEngie)** · *personal*
-Solución de escritorio en Python que clasifica automáticamente cientos de albaranes PDF escaneados, eliminando una clasificación manual lenta y propensa a errores.
-* 🚀 **Backend:** Python con procesamiento concurrente (**Threading**) para no bloquear la UI.
-* 🧠 **Lógica:** motor híbrido **OCR + Regex** para extraer datos (NIF, fechas) de documentos no estructurados.
-* 🏗️ **Arquitectura:** modular desacoplada (Clean Architecture simplificada) con configuración externa (JSON).
 
 ---
 
